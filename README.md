@@ -5,8 +5,10 @@
 
 <hr/>
 
-### ![image](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/346dc2a9-45f3-4372-8e4c-de62a3bc5e3f) **(Youtube video coming)**
+### ![image](https://github.com/BluJay131/Cost-Effective-Twitch-Controlled-Lights/assets/80910384/346dc2a9-45f3-4372-8e4c-de62a3bc5e3f) Thanks for checking out my project!
+
+**(Youtube video coming)**
 
 ## Description
 
-A robot that automatically detects fires using  
+A robot that automatically detects fires using `openCV` and <a target="_blank" href="https://github.com/ultralytics/yolov5">YoloV5</a> and shoots them with a water cannon! All powered by Raspberry Pi.
