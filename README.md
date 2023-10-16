@@ -25,6 +25,7 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 - <a target="_blank" href="https://www.amazon.com/dp/B00VRUAHLE?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=c79fece967790766ef38f0fd70a48fb7&camp=1789&creative=9325">Relays</a>
 - <a target="_blank" href="https://www.amazon.com/Tubing-Flexible-Hybrid-Lightweight-10-Feet/dp/B09V6WZCST/ref=sr_1_3?crid=VT314Z2TK1E0&amp;keywords=1%252F2%252Binch%252Btubing&amp;qid=1697420218&amp;s=industrial&amp;sprefix=1%252F2%252Binch%252Btubing%252Cindustrial%252C154&amp;sr=1-3&amp;th=1&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=2e5969bce631563fa633bf545da5ebfe&camp=1789&creative=9325">Tubing</a>
 - <a target="_blank" href="https://www.amazon.com/Logitech-Desktop-Widescreen-Calling-Recording/dp/B004FHO5Y6/ref=sr_1_3?keywords=logitech%252B720p%252Bwebcam&amp;qid=1697420279&amp;sr=8-3&amp;th=1&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=c170c8059448bfa96468dec7793a7f50&camp=1789&creative=9325">Webcam</a>
+- <a target="_blank" href="https://www.amazon.com/Noctua-redux-1700-high-Performance-Award-Winning-Affordable/dp/B07CG2PGY6/ref=sr_1_2_sspa?crid=CU15JJDHJWNX&amp;keywords=120+mm+fan&amp;qid=1697422042&amp;sprefix=120+mm+fan%252Caps%252C161&amp;sr=8-2-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&amp;psc=1&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=0ed19b6d7787e5f2c1ba20ce4e2e7ae3&camp=1789&creative=9325">120mm Fan</a>
 - Access to a 3d Printer and preferably PLA+
 
 ## Software Setup
@@ -39,11 +40,13 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
    pip install RPi.GPIO
    ```
 6. Edit the `Start.sh` file to cd to your own directory
-7. (Optional) create a .desktop file in the autorun folder to launch on boot (exec=YOUR_PATH_TO_FOLDER/Start.sh)
+7. (Optional) Create a .desktop file in the autorun folder to launch on boot (exec=YOUR_PATH_TO_FOLDER/Start.sh)
 
 ## Hardware Setup
 (Good luck lol)
 
-
+1. Start off by printing the two files in the `Print Files` folder
+2. Mount the Pi to the case and attach the breadboard and relay as shown in the image below
+<img src="https://github.com/BluJay131/Firewatch/assets/80910384/e941808c-29f8-4e9e-b220-9c45084522c3" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/e941808c-29f8-4e9e-b220-9c45084522c3" width="250" height="250" />
 
 ## Installation and Usage
