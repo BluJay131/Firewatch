@@ -50,11 +50,15 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 2. Mount the Pan and Tilt Frame to the top of the Pi case lining up the close right riser to the close right hole and drilling the other 3 as shown
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" width="500" height="250" />
 
-4. Mount the Pi to the case and attach the breadboard and relay as shown in the image below, along with this, place your GPIO breakout evenly on the breadboard
+3. Mount the Pi to the case and attach the breadboard and relay as shown in the image below, along with this, place your GPIO breakout evenly on the breadboard
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/77f847d9-93e2-4d6f-bc92-b80bb9f67aa4" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/77f847d9-93e2-4d6f-bc92-b80bb9f67aa4" width="250" height="250" />
 
-5. As for the jumper setup, reference diagram below
-<img src="https://github.com/BluJay131/Firewatch/assets/80910384/dcd35a9e-b3df-4971-9804-af0bd4291762" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/dcd35a9e-b3df-4971-9804-af0bd4291762" width="250" height="250" />
+4. As for the jumper setup, reference diagram below
+<img src="https://github.com/BluJay131/Firewatch/assets/80910384/dcd35a9e-b3df-4971-9804-af0bd4291762" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/dcd35a9e-b3df-4971-9804-af0bd4291762" width="300" height="300" />
 
+5. Attach the nozzle to the top of the frame using 2 screws, there is a notch at the base which you align to the hole on the frame.
+6. The physical order for the flow of the water should be source -> solenoid -> vinyl tube -> printed nozzle
+7. I used two steel zip ties to fix the webcam to the nozzle attached frame
+<img src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" width="300" height="300" />
 
 ## Installation and Usage
