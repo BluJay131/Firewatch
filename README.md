@@ -47,6 +47,7 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 
 1. Start off by printing the two files in the `Print Files` folder
 2. Mount the Pi to the case and attach the breadboard and relay as shown in the image below
-<img src="https://github.com/BluJay131/Firewatch/assets/80910384/e941808c-29f8-4e9e-b220-9c45084522c3" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/e941808c-29f8-4e9e-b220-9c45084522c3" width="250" height="250" />
+<img src="https://github.com/BluJay131/Firewatch/assets/80910384/77f847d9-93e2-4d6f-bc92-b80bb9f67aa4" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/77f847d9-93e2-4d6f-bc92-b80bb9f67aa4" width="250" height="250" />
+
 
 ## Installation and Usage
