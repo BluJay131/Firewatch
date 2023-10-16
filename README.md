@@ -27,8 +27,19 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 - <a target="_blank" href="https://www.amazon.com/Logitech-Desktop-Widescreen-Calling-Recording/dp/B004FHO5Y6/ref=sr_1_3?keywords=logitech%252B720p%252Bwebcam&amp;qid=1697420279&amp;sr=8-3&amp;th=1&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=c170c8059448bfa96468dec7793a7f50&camp=1789&creative=9325">Webcam</a>
 - Access to a 3d Printer and preferably PLA+
 
-### Software Setup
+## Software Setup
 
-### Hardware Setup
+1. Install Python 3.10+ on Pi (tested on 3.11 & 3.10)
+2. Clone <a target="_blank" href="https://github.com/ultralytics/yolov5">YoloV5</a> and cd into the folder
+3. Clone this repository and/or add these files to the YoloV5 folder
+4. Install the required Python libraries using the following command:
+   ```
+   pip install -r requirements.txt
+   pip install RPi.GPIO
+   ```
+
+## Hardware Setup
+
+
 
 ## Installation and Usage
