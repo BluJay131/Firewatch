@@ -56,12 +56,13 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 4. As for the jumper setup, reference diagram below
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/dcd35a9e-b3df-4971-9804-af0bd4291762" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/dcd35a9e-b3df-4971-9804-af0bd4291762" width="300" height="300" />
 
-5. Attach the nozzle to the top of the frame using 2 screws, there is a notch at the base which you align to the hole on the frame.
-6. The physical order for the flow of the water should be source -> solenoid -> vinyl tube -> printed nozzle
-7. I used two steel zip ties to fix the webcam to the nozzle attached frame
+5. After the internals are neatly managed (for the most part) screw on 120mm fan to case with chassis retaining screws
+6. Attach the nozzle to the top of the frame using 2 screws, there is a notch at the base which you align to the hole on the frame.
+7. The physical order for the flow of the water should be source -> solenoid -> vinyl tube -> printed nozzle
+8. I used two steel zip ties to fix the webcam to the nozzle attached frame
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" width="300" height="500" />
 
-8. If all done correctly, your build should look something like this minus the plywood baseplate I added for stability
+9. If all done correctly, your build should look something like this minus the plywood baseplate I added for stability
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" width="500" height="250" />
 
 ## Turret In Action
