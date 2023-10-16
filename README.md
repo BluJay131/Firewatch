@@ -64,4 +64,13 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 8. If all done correctly, your build should look something like this minus the plywood baseplate I added for stability
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" width="500" height="250" />
 
-## Installation and Usage
+## Turret In Action
+
+
+https://github.com/BluJay131/Firewatch/assets/80910384/18919a4b-ea64-47a8-9dee-25821a107867
+
+
+
+https://github.com/BluJay131/Firewatch/assets/80910384/e7cc6c9b-56a0-472d-a966-12713702e0be
+
+
