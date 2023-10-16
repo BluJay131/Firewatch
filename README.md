@@ -59,7 +59,8 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 5. Attach the nozzle to the top of the frame using 2 screws, there is a notch at the base which you align to the hole on the frame.
 6. The physical order for the flow of the water should be source -> solenoid -> vinyl tube -> printed nozzle
 7. I used two steel zip ties to fix the webcam to the nozzle attached frame
-<img src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" width="300" height="300" />
+<img src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/01785701-8f89-4d6b-8267-c48f1ee8994c" width="300" height="500" />
+
 8. If all done correctly, your build should look something like this minus the plywood baseplate I added for stability
 <img src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" data-canonical-src="https://github.com/BluJay131/Firewatch/assets/80910384/61b5f07f-0db7-4f35-8c2a-7896c8139619" width="500" height="250" />
 
