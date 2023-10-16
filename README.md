@@ -29,16 +29,20 @@ A robot that automatically detects fires using `opencv-python` and <a target="_b
 
 ## Software Setup
 
-1. Install Python 3.10+ on Pi (tested on 3.11 & 3.10)
-2. Clone <a target="_blank" href="https://github.com/ultralytics/yolov5">YoloV5</a> and cd into the folder
-3. Clone this repository and/or add these files to the YoloV5 folder
-4. Install the required Python libraries using the following command:
+1. Install the (Legacy, 64-Bit) Debian Bullseye OS off of the official <a target="_blank" href="https://www.raspberrypi.com/software/">Pi Imager</a>
+2. Install Python 3.10+ on the Pi (tested on 3.11 & 3.10)
+3. Clone <a target="_blank" href="https://github.com/ultralytics/yolov5">YoloV5</a> and cd into the folder
+4. Clone this repository and/or add these files to the YoloV5 folder
+5. Install the required Python libraries using the following command:
    ```
    pip install -r requirements.txt
    pip install RPi.GPIO
    ```
+6. Edit the `Start.sh` file to cd to your own directory
+7. (Optional) create a .desktop file in the autorun folder to launch on boot (exec=YOUR_PATH_TO_FOLDER/Start.sh)
 
 ## Hardware Setup
+(Good luck lol)
 
 
 
