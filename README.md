@@ -14,7 +14,6 @@
 A robot that automatically detects fires using `opencv-python` and <a target="_blank" href="https://github.com/ultralytics/yolov5">YoloV5</a> and shoots them with a water cannon! All powered by Raspberry Pi.
 
 ## Parts List 
-(All affiliate links btw)
 
 - <a target="_blank" href="https://www.amazon.com/Rain-Bird-CP100-Automatic-Sprinkler/dp/B00002N8NN/ref=sr_1_2?keywords=Rain+Bird+1+in.+In-Line+Irrigation+Valve&amp;qid=1697400901&amp;sr=8-2&_encoding=UTF8&tag=blujay131-20&linkCode=ur2&linkId=8dd2c6495d3c867894930b61098f4147&camp=1789&creative=9325">Solenoid</a>
 (Make sure to get fitting pieces for adaption to water source, in my case it was a garden hose)
