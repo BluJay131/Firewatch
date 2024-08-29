@@ -73,4 +73,7 @@ https://github.com/BluJay131/Firewatch/assets/80910384/18919a4b-ea64-47a8-9dee-2
 
 https://github.com/BluJay131/Firewatch/assets/80910384/e7cc6c9b-56a0-472d-a966-12713702e0be
 
+## Side Notes
+
+- This project is licensed under the MIT License.
 
